@@ -25,7 +25,7 @@ This sprint challenge is divided up into three parts:  Hash tables coding, block
 Explain in detail the workings of a dynamic array:
 * What is the runtime complexity to access an array, add or remove from the front, and add or remove from the back?
 
-O(n)
+O(n) to the front. To the back the best case is O(1)
 
 * What is the worse case scenario if you try to extend the storage size of a dynamic array?
 
